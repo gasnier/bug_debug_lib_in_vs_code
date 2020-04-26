@@ -1,0 +1,18 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "App",
+  "scripts": {
+    "build": "tsc -b -v",
+    "clean": "tsc -b --clean",
+    "start": "node dist/index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@local/lib": "../lib/dist"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}

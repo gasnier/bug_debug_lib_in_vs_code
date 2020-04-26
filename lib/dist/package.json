@@ -1,0 +1,9 @@
+{
+  "name": "@local/lib",
+  "version": "1.0.0",
+  "description": "Lib",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
