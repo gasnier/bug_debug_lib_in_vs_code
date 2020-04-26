@@ -1,4 +1,4 @@
-# Bug in VS code trypscript debugging
+# Bug in VS code typescript debugging
 
 ### Workspace
 In VS Code Open the workspace folder containing :
